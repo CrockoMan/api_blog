@@ -65,7 +65,7 @@ CRUD для для проекта социальной сети.
 
 ## Аутентификация
 
-1. Выполнить POST-запрос к ручке `http://localhost:8000/api/v1/token/` передав поля `username` и `password`.
+1. Выполнить POST-запрос `http://localhost:8000/api/v1/token/` передав поля `username` и `password`.
 
 2. Получить от API JWT-токен в формате:
 
